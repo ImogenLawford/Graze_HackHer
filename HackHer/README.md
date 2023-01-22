@@ -3,14 +3,14 @@
 
 ## Contributors:
 ---
+Author: Imogen Lawford-Wickham <br>
+Email: 'Imogen.lawford7@gmail.com'<br>
+
 Author: Masood Ahmed <br>
 Email: 'mangimasood2000@gmail.com'<br>
 
 Author: Sari Pagurek van Mossel <br>
 Email: 'sari.pvm@gmail.com'<br>
-
-Author: Imogen Lawford-Wickham <br>
-Email: 'Imogen.lawford7@gmail.com'<br>
 
 Author: Ethney Stewart  <br>
 Email: 'ethney@cyberstewart.com'<br>
